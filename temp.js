@@ -5,6 +5,7 @@
 // @description  Harry's first script
 // @author       You
 // @match        *://*
+// @liscence     AGPL-3.0
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant        none
 // ==/UserScript==

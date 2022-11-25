@@ -13,7 +13,7 @@
 (
     function() {//一个匿名函数
     'use strict';//严格模式
-        console.log("Hello world!")//输出
+        console.log("Hello new world!")//输出
     // Your code here...
     }
 )();//执行名为function的匿名函数

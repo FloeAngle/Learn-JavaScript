@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Hello World
 // @namespace    https://github.com/FloeAngle/Learn-JavaScript/
-// @version      0.1
+// @version      0.2
 // @description  Harry's first script
 // @author       You
 // @match        *://*
